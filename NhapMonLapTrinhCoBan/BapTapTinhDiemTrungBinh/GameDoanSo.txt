@@ -1,0 +1,8 @@
+Begin
+  input M
+  input N
+  IF (N==M)
+    Display "Du Doan Dung"         
+  ELSE             
+    Display "Du Doan Sai" 
+End
