@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form>
+    <select id = "chooseMonth" onchange="getMonthChoose()">
+        <option disabled selected>Tháng</option>
+        <option value="1">Một</option>
+        <option value="2">Hai</option>
+        <option value="3">Ba</option>
+        <option value="4">Bốn</option>
+        <option value="5">Năm</option>
+        <option value="6">Sáu</option>
+        <option value="7">Bảy</option>
+        <option value="8">Tám</option>
+    </select>
+    <input type="button" onclick="getMonthChoose()" value="Submit"/>
+</form>
+<script>
+    var month = document.getElementById("chooseMonth");
+    function getMonthChoose() {
+        alert(month.value);
+    }
+</script>
+</body>
+</html>
