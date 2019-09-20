@@ -1,0 +1,8 @@
+
+
+Begin
+Nh?p N d? dài dãy s?.
+Ki?m tra N>0
+For (i=1;i<=N;i++)
+
+End
