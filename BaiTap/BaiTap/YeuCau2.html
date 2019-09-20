@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+
+    let nameCustomer = " Nguyen Ngoc Y Nguyen";
+    let idCard = "123456789";
+    let birthdayCustomer = "03/05/1997";
+    let emailCustomer = "ngocdiennhan26@gmail.com";
+    let addressCustomer = "DA NANG";
+    let typeCustomer = "Diamond";
+    let discount = 10;
+    let numberOfAccompanying = 2;
+    let typeRoom = "Business";
+    let rentDays =10;
+    let typeService = "Villa";
+    let totalPays = 500 * (rentDays) * (1 - discount/100);
+    let choose = prompt(
+        "1. Show Information Customer.\n" +
+        "2. Edit Information Customer.\n" +
+        "3. Show The Amount To Be Paid After Discount.\n"
+    );
+     switch (choose) {
+         case "1":
+     }
+
+    alert ("Information of Customer:\n" +
+        "Name: " + nameCustomer +
+        "\nId Card: " + idCard +
+        "\nBirthday:" + birthdayCustomer +
+        "\nEmail:" + emailCustomer +
+        "\nAddress :" + addressCustomer +
+        "\nType Customer : " + typeCustomer +
+        "\nDiscount : " + discount +
+        "\nAccompanying : " + numberOfAccompanying +
+        "\ntype Room : " + typeRoom +
+        "\nRent Days : " + rentDays +
+        "\nType Service : " + typeService+
+        "\nTotal Pays : " + totalPays
+    )
+    ;
+       break;
+
+     case "2":
+       let chooseEdit = prompt(
+           "Choose Information Customer You Want Edit: \n" +
+           "1.Name: " + nameCustomer +
+           "\n2Id Card: " + idCard +
+           "\n3Birthday:" + birthdayCustomer +
+           "\n4mail:" + emailCustomer +
+           "\n5Address :" + addressCustomer +
+           "\n6Type Customer : " + typeCustomer +
+           "\n7Discount : " + discount +
+           "\n8nAccompanying : " + numberOfAccompanying +
+           "\n9type Room : " + typeRoom +
+           "\n10Rent Days : " + rentDays +
+           "\nT11ype Service : " + typeService
+       );
+       switch (chooseEdit) {
+           case "1":
+               break;
+               nameCustomer = prompt("Enter Name You Want Edit:");
+           case "2":
+               idCard = prompt(" Enter Id Card Customer You Want Edit :");
+               break;
+           case "3":
+               birthdayCustomer = prompt(" Enter Birthday Customer You Want Edit (dd/MM/YYYY): ");
+               break;
+           case "4":
+               emailCustomer = prompt(" Enter Email Customer You Want Edit:");
+               break;
+           case "5":
+               addressCustomer = prompt(" Enter Address Customer You Want Edit:");
+               break;
+           case "6":
+               typeCustomer = prompt(" Enter Type Customer You Want Edit:");
+               break;
+           case "7":
+               discount = prompt(" Enter Discount You Want Edit:");
+               break;
+           case "8":
+               numberOfAccompanying = prompt(" Enter Number Of Accompanying Customer You Want Edit:");
+               break;
+           case "9":
+               typeRoom = prompt(" Enter Type Room You Want Edit:");
+               break;
+           case "10":
+               rentDays = prompt(" Enter Rent Days You Want Edit:");
+               break;
+           case "11":
+               typeService = prompt(" Enter Type Service You Want Edit:");
+               break;
+               delfaut:
+                   alert("Failed !!!");
+               break;
+       }
+    alert ("Information of Customer:\n" +
+        "Name: " + nameCustomer +
+        "\nId Card: " + idCard +
+        "\nBirthday:" + birthdayCustomer +
+        "\nEmail:" + emailCustomer +
+        "\nAddress :" + addressCustomer +
+        "\nType Customer : " + typeCustomer +
+        "\nDiscount : " + discount +
+        "\nAccompanying : " + numberOfAccompanying +
+        "\ntype Room : " + typeRoom +
+        "\nRent Days : " + rentDays +
+        "\nType Service : " + typeService)
+
+
+</script>
+</body>
+</html>
