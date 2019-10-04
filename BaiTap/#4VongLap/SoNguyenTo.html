@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let soluong = parseInt(prompt("How many number you want enter: "));
+    let count = 0;
+    let number = 2;
+
+    while (true) {
+        if (number === 2) {
+            document.write(number + " ");
+            count++;
+            number++;
+
+        }
+        if (checkprime(number)) {
+            count++;
+            document.write(number+ " ");
+        }
+        if (count === soluong)
+            break;
+        number+=2;
+    }
+    function checkprime(soluong) {
+        for (let i = 2; i <= Math.sqrt(soluong); i++) {
+            if (soluong % i == 0) return false;
+        }
+        return true;
+    }
+</script>
+</body>
+</html>

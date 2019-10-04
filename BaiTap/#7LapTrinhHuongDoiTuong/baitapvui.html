@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body onload="run()">
+<img id="neymar" src="neymar.PNG" style="position:absolute;left:0; top:0;" height="300" width="200"/>
+<script>
+
+    function up() {
+        let element = document.getElementById("neymar");
+        element.style.top = parseInt(element.style.top) - 5 + "px";
+        setTimeout(up, 1000);
+
+    }
+    function down() {
+        let element = document.getElementById("neymar");
+        element.style.top = parseInt(element.style.top) + 5 + "px";
+        setTimeout(down, 1000);
+    }
+    function left() {
+        let element = document.getElementById("neymar");
+        element.style.left = parseInt(element.style.left) - 5 + "px";
+        setTimeout(left, 1000);
+    }
+    function right() {
+        let element = document.getElementById("neymar");
+        element.style.left = parseInt(element.style.left) + 5 + "px";
+        setTimeout(right, 1000)
+    }
+
+    function mouseSelection(e) {
+        switch (e.which) {
+            case 38:
+                up();
+                break;
+            case 40:
+                down();
+                break;
+            case 37:
+                left();
+                break;
+            case 39:
+                right();
+                break;
+        }
+    }
+
+    function run() {
+        window.addEventListener("keydown", mouseSelection);
+    }
+</script>
+</body>
+</html>

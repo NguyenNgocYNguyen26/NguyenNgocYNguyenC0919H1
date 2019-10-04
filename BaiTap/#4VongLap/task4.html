@@ -1,0 +1,64 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let arrCustomer= new Array();
+    display();
+
+    function display() {
+        document.write("-----menu------ <br/>" +
+            "(1)delete customer<br/>  " +
+            "(2)add customer ");
+        window.addEventListener("keydown", selection);
+    }
+    function selection(chosse) {
+        switch (chosse.which) {
+            case 49:{
+                arrCustomer= deleteCustomer(arrCustomer);
+                printArrCustomer(arrCustomer);
+                display();
+            } break;
+            case 50:{
+                arrCustomer= addCustomer(arrCustomer);
+                printArrCustomer(arrCustomer);
+                display();
+            }break;
+        }
+    }
+    function deleteCustomer(arr) {
+        let name = prompt("enter customer name  you want delete");
+        let n=0;
+        for (let i=0;i<arr,length;i++){
+            if (arr[i]== name){
+                arr= arr.splice(i,1);
+                n++;
+            }
+        }
+        if (n==0) alert("khong co");
+        return arr;
+    }
+    function addCustomer(arr) {
+        let num= parseInt(prompt("hay many customer you can add"));
+        if (num>0){
+            let name="";
+            for (let i=0;i<num.length;i++){
+                name = prompt("enter your name do you want to add");
+                arr.push(name);
+            }
+        }else alert("number is avalid");
+        return  arr;
+    }
+    function printArrCustomer(arr) {
+        for (let i=0;i<arr.length;i++){
+            document.write(arr[i]+"<br/>");
+        }
+    }
+</script>
+</body>
+</html>

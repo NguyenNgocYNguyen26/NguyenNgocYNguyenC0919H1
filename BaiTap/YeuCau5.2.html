@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body onload="displayMainMenu()">
+<script type="text/javascript" src="Customer.js"></script>
+<script>
+    let arrlistCustomer= new Array();
+
+    function displayMainMenu() {
+        document.write("----------main menu----------</br>" +
+            "1 . Add new customer.</br>" +
+            "2 . Display Infomation Customer.</br>" +
+            "3 . Edit Information Customer.</br>" +
+            "3 . Delete Customer.</br>" +
+            "----------------------------------</br>");
+        window.addEventListener("keydown",selection)
+    }
+
+    function selection(chosse) {
+        switch (chosse.which) {
+            case 49:{
+                let customer = new Customer();
+                addNewCustomer(customer);
+                arrlistCustomer.push(customer);
+                displayMainMenu();
+            } break;
+            case 50:{
+                printArrCustomer(arrlistCustomer);
+                let num =Number.parseInt(prompt("select customer you want show "));
+                arrlistCustomer[num].displayInfomationCustomer();
+                displayMainMenu();
+            }break;
+            case 51:{
+                printArrCustomer(arrlistCustomer);
+                let num =Number.parseInt(prompt("select customer you want Edit infomation"));
+                editCustomer(arrlistCustomer[num]);
+                arrlistCustomer[num].displayInfomationCustomer();
+                displayMainMenu();
+            }break;
+            case 52:{
+                printArrCustomer(arrlistCustomer);
+                let num =Number.parseInt(prompt("select customer you want delete"));
+                arrlistCustomer.splice(num,1);
+                printArrCustomer(arrlistCustomer);
+                displayMainMenu();
+            }break;
+        }
+    }
+
+    function addNewCustomer(customer) {
+        customer.setNameCustomer(prompt("Enter name customer:"));
+        customer.setIdCard(prompt("Enter idcard:"));
+        customer.setBirthdayCustomer(prompt("Enter birthday Customer:"));
+        customer.setEmailCustomer(prompt("Enter Email:"));
+        customer.setAddress( prompt("Enter address:"));
+        customer.setTypeCustomer(prompt("Enter type customer:"));
+        customer.setDiscount(prompt("Enter disscount:"));
+        customer.setNumberOfAccompanying( prompt("Enter number of accompanying:"));
+        customer.setTypeRoom(prompt("Enter  type room:"));
+        customer.setRentday(prompt("Enter rentday:"));
+        customer.getSetTypeService(prompt("Enter type service:"));
+        return customer;
+    }
+    function editCustomer (customer) {
+        custumer.setNameCustomer(prompt("Enter name custumer:"));
+        custumer.setIdCard(prompt("Enter idcard:"));
+        custumer.setBirthdayCustomer(prompt("Enter birthday Customer:"));
+        custumer.setEmailCustumer(prompt("Enter Email:"));
+        custumer.setAddress( prompt("Enter address:"));
+        custumer.setTypeCustumer(prompt("Enter type customer:"));
+        custumer.setDiscount(prompt("Enter disscount:"));
+        custumer.setNumberOfAccompanying( prompt("Enter number of accompanying:"));
+        custumer.setTypeRoom(prompt("Enter  type room:"));
+        custumer.setRentday(prompt("Enter rentday:"));
+        custumer.getSetTypeService(prompt("Enter type service:"));
+        return custumer;
+    }
+
+    function printArrCustomer(arr) {
+        for (let i=0;i<arr.length;i++){
+            document.write((i+1)+ "Name: "+arr[i].nameCustomer+"ID: "+arr[i].idCard+"<br/>");
+        }
+    }
+</script>
+</body>
+</html>

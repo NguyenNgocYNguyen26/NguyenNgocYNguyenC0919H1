@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="422d583b-45b2-4d8d-bbfc-0c42361f0d12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../#3BienVaKieuDuLieu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#3BienVaKieuDuLieu/ThucHanhHinhTron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#3BienVaKieuDuLieu/btGoodfastcheap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4VongLap/BTBangCuuChuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4VongLap/BTTamGiac.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4VongLap/BTVeTraiTym.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4VongLap/SoNguyenTo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#4VongLap/task4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#5Mang/.idea/#5Mang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#5Mang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#5Mang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#5Mang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#5Mang/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/#7LapTrinhHuongDoiTuong/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/.idea/#6Ham.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/BTDoiXung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/BTNhietDo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/ChuyenDoiFeetSangMetter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/Demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/DemoHam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/LoiNhan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/MangSo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/TaoVaSuDungHam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/ThucHanhChuyenDoiNhietDo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/ThucHanhKhoiTaoHam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/TimGiaTriNhoNhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/TimMin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#6Ham/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/#7LapTrinhHuongDoiTuong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTCoCaRo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTHinhTron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTPTB2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTapCanVas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTapGameDongian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/THucHanhHinhChuNhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapvui.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neymar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pikachu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#8LapTrinhHuongDoiTuong2/ThucHanhLopDate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#9XuLiChuoi/.idea/#9XuLiChuoi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#9XuLiChuoi/KiemTraNuocMy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../#9XuLiChuoi/ThucHanhKiemTraKiTu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap/Task22222.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap/ThucHanhDienThoai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap/YeuCau3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap/YeuCau3T1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap/YeuCau4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap/YeuCau5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap/yeucau3.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CauTrucDieuKien/SS1/#2/.idea/#2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CauTrucDieuKien/SS1/#2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CauTrucDieuKien/SS1/#2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CauTrucDieuKien/SS1/#2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeuCau5.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../#3BienVaKieuDuLieu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../#3BienVaKieuDuLieu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../#4VongLap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../#4VongLap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaiTap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/YeuCau2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BaiTap/YeuCau2.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../#4VongLap/SoNguyenTo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BTPTB2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../#4VongLap/BTTamGiac.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../#4VongLap/BTBangCuuChuong.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="25" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BTCoCaRo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../BaiTap/Task22222.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-204">
+              <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../BaiTap/ThucHanhDienThoai.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/THucHanhHinhChuNhat.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pikachu.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BaiTapGameDongian.html" />
+        <option value="$PROJECT_DIR$/BTPTB2.html" />
+        <option value="$PROJECT_DIR$/BaiTapCanVas.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/../BaiTap/YeuCau5.html" />
+        <option value="$PROJECT_DIR$/../#3BienVaKieuDuLieu/ThucHanhHinhTron.html" />
+        <option value="$PROJECT_DIR$/baitapvui.html" />
+        <option value="$PROJECT_DIR$/../#4VongLap/SoNguyenTo.html" />
+        <option value="$PROJECT_DIR$/../BaiTap/yeucau3.1.html" />
+        <option value="$PROJECT_DIR$/../BaiTap/Task22222.html" />
+        <option value="$PROJECT_DIR$/THucHanhHinhChuNhat.html" />
+        <option value="$PROJECT_DIR$/BTHinhTron.html" />
+        <option value="$PROJECT_DIR$/BTCoCaRo.html" />
+        <option value="$PROJECT_DIR$/../BaiTap/ThucHanhDienThoai.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="y" value="66" />
+    <option name="width" value="650" />
+    <option name="height" value="416" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../#8LapTrinhHuongDoiTuong2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="422d583b-45b2-4d8d-bbfc-0c42361f0d12" name="Default Changelist" comment="" />
+      <created>1569814586944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569814586944</updated>
+      <workItem from="1569814592200" duration="3513000" />
+      <workItem from="1569834949665" duration="1734000" />
+      <workItem from="1569893230484" duration="5327000" />
+      <workItem from="1569979712052" duration="9295000" />
+      <workItem from="1570065249727" duration="4907000" />
+      <workItem from="1570151571082" duration="2377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27153000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../#3BienVaKieuDuLieu/kiemtranamnhuan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../#3BienVaKieuDuLieu/BTMayTinhDonGian.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BaiTap/YeuCau4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BaiTap/YeuCau1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="8" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaiTapCanVas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BaiTap/YeuCau5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neymar.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../#3BienVaKieuDuLieu/ThucHanhHinhTron.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CauTrucDieuKien/SS1/bai2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapvui.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BaiTap/yeucau3.1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="155" column="31" selection-start-line="155" selection-start-column="31" selection-end-line="155" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BaiTap/YeuCau3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BaiTap/1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaiTapGameDongian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BaiTap/YeuCau2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="98" column="41" lean-forward="true" selection-start-line="98" selection-start-column="41" selection-end-line="98" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTHinhTron.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BaiTap/YeuCau3T1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../#4VongLap/SoNguyenTo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTPTB2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../#4VongLap/BTTamGiac.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../#4VongLap/BTBangCuuChuong.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="25" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTCoCaRo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/THucHanhHinhChuNhat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pikachu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BaiTap/Task22222.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BaiTap/ThucHanhDienThoai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

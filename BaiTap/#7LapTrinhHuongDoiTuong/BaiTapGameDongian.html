@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Objects</title>
+</head>
+<body>
+<div id="game"></div>
+<script src="script.js"></script>
+<script>function Hero(image, top, left, size){
+    this.image = image;
+    this.top = top;
+    this.left = left;
+    this.size = size;
+
+
+    this.getHeroElement = function(){
+        return '<img width="'+ this.size + '"' +
+            ' height="'+ this.size + '"' +
+            ' src="' + this.image +'"' +
+            ' style="top: '+this.top+'px; left:'+this.left+'px;position:absolute;" />';
+    }
+    var speed = parseInt(prompt("Enter a speed"));
+    this.moveRight = function(){
+        this.left += speed;
+        console.log('ok: ' + this.left);
+    }
+     // this.moveDown = function () {
+     //    this.down
+
+
+}
+
+var hero = new Hero('neymar.png', 30, 30, 200);
+
+
+function start(){
+    if(hero.left < window.innerWidth - hero.size){
+        hero.moveRight();
+        function up() {
+            let element = document.getElementById("hero");
+            element.style.top = parseInt(element.style.top) + 5 + "px";
+        }
+        function down() {
+            let element = document.getElementById("hero");
+            element.style.top = parseInt(element.style.top) + 5 + "px";
+        }
+        function left() {
+            let element = document.getElementById("hero");
+            element.style.left = parseInt(element.style.left) + 5 + "px";
+        }
+        function right() {
+            let element = document.getElementById("hero.png");
+            element.style.left = parseInt(element.style.left) - 5 + "px";
+
+    }
+    document.getElementById('game').innerHTML = hero.getHeroElement();
+    setTimeout(start, 200)
+}
+    function mouseSelection(e) {
+        switch (e.which) {
+            case 38:
+                up();
+                break;
+            case 40:
+                down();
+                break;
+            case 37:
+                left();
+                break;
+            case 39:
+                right();
+                break;
+        }
+    }
+    //////////
+    function run() {
+        window.addEventListener("keydown", mouseSelection);
+    }
+start();}
+</script>
+</body>
+</html>

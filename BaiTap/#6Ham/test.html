@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input id = "textInput" type = "text" onkeydown="runprogram(Event)"/>
+
+<script>
+    let textInput = document.getElementById("textInput");
+    let str = " Nguyen Nguyen" ;
+    let index = 0;
+    let result = "";
+
+
+    function runprogram(Event) {
+      if(Event.keyCode === 8)  {
+
+      }
+      else {
+          event.preventDefault()
+          result += str.charAt(index);
+          textInput.value = result;
+          index++;
+
+          if (index === str.length) {
+              textInput.style.color = " green ";
+              alert(" da xong");
+
+          }
+
+      }
+
+    }
+
+
+
+
+
+
+</script>
+</body>
+</html>
