@@ -2,77 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05f6fa73-0ba7-4d5f-9b79-1e0899f6192c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../#3BienVaKieuDuLieu/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#3BienVaKieuDuLieu/ThucHanhHinhTron.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#3BienVaKieuDuLieu/btGoodfastcheap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#4VongLap/BTBangCuuChuong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#4VongLap/BTTamGiac.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#4VongLap/BTVeTraiTym.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#4VongLap/SoNguyenTo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#4VongLap/task4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#5Mang/.idea/#5Mang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#5Mang/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#5Mang/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#5Mang/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#5Mang/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/#7LapTrinhHuongDoiTuong/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/.idea/#6Ham.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/BTDoiXung.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/BTNhietDo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/ChuyenDoiFeetSangMetter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/Demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/DemoHam.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/LoiNhan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/MangSo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/TaoVaSuDungHam.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/ThucHanhChuyenDoiNhietDo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/ThucHanhKhoiTaoHam.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/TimGiaTriNhoNhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/TimMin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#6Ham/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/.idea/#7LapTrinhHuongDoiTuong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/BTCoCaRo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/BTHinhTron.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/BTPTB2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/BaiTapCanVas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/BaiTapGameDongian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/THucHanhHinhChuNhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/baitapvui.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/neymar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#7LapTrinhHuongDoiTuong/pikachu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaiTapLaiXe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThucHanhLopDate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#9XuLiChuoi/.idea/#9XuLiChuoi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#9XuLiChuoi/KiemTraNuocMy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../#9XuLiChuoi/ThucHanhKiemTraKiTu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BaiTap/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BaiTap/Task22222.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BaiTap/ThucHanhDienThoai.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BaiTap/YeuCau3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BaiTap/YeuCau3T1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BaiTap/YeuCau4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BaiTap/YeuCau5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BaiTap/yeucau3.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CauTrucDieuKien/SS1/#2/.idea/#2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CauTrucDieuKien/SS1/#2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CauTrucDieuKien/SS1/#2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CauTrucDieuKien/SS1/#2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YeuCau5.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YeuCau6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../#3BienVaKieuDuLieu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../#3BienVaKieuDuLieu/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../#4VongLap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../#4VongLap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/.idea/BaiTap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BaiTap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BaiTap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTap/YeuCau2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BaiTap/YeuCau2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/Task22222.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/ThucHanhDienThoai.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/YeuCau1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/YeuCau2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/YeuCau3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/YeuCau3T1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/YeuCau4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/YeuCau5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap/yeucau3.1.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -98,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/BaiTapLaiXe.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -123,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="y" value="66" />
     <option name="width" value="650" />
@@ -141,6 +91,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../BaiTap" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -177,7 +128,7 @@
     <option name="totallyTimeSpent" value="2029000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
@@ -206,7 +157,7 @@
     <entry file="file://$PROJECT_DIR$/BaiTapLaiXe.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
