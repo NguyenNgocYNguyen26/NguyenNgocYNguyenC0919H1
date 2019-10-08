@@ -43,19 +43,19 @@
         let nameCustomer = prompt("Enter Name Customer: ");
         let idCard = prompt("Enter ID Card Customer: ");
         while(parseInt(idCard)<100000000 || parseInt(idCard)>999999999|| isNaN(idCard)){
-            alert("Số CMND phải đúng theo định dạng XXXXXXXX với X là số nguyên dương");
+            alert("sai dinh dang ");
             idCard = prompt("Enter ID Card Customer: ");
         }
         let birthdayCustomer = prompt("Enter Birthday Customer (dd/MM/YYYY): ");
         while(!birthdayCustomer.includes("/"))
         {
-            alert("Ngày sinh phải đúng định dang dd/MM/YYYY");
+            alert("sai dinh dang ngay sinh");
             birthdayCustomer = prompt("Enter Birthday Customer (dd/MM/YYYY): ");
         }
         let emailCustomer = prompt("Enter Email Customer: ");
         while(emailCustomer.includes("@") == false || emailCustomer.includes(".") == false)
         {
-            alert("Địa chỉ email phải đúng định dạng abc@abc.abc");
+            alert("dia chi dang abc@abc.abc");
             emailCustomer = prompt("Enter Email Customer: ");
         }
         let addressCustomer = prompt("Enter Address Customer: ");
@@ -63,20 +63,20 @@
         let discount = prompt("Enter Discount: ");
         while(isNaN(discount) || parseInt(discount) < 0)
         {
-            alert("Phải là số nguyên dương");
+            alert("nhap vao so nguyen duong");
             discount = prompt("Enter Discount: ");
         }
         let numberOfAccompanying = prompt("Enter Number Of Accompanying: ");
         while(isNaN(numberOfAccompanying) || parseInt(numberOfAccompanying) < 0)
         {
-            alert("Phải là số nguyên dương");
+            alert("nhap vao so nguyen duong");
             numberOfAccompanying = prompt("Enter Number Of Accompanying: ");
         }
         let typeRoom = prompt("Enter Type Room: ");
         let rentDay  = prompt("Enter Rent Day: ");
         while(isNaN(rentDay) || parseInt(rentDay) < 0)
         {
-            alert("Phải là số nguyên dương");
+            alert("nhap vao so nguyen duong");
             rentDay  = prompt("Enter Rent Day: ");
         }
         let typeService = prompt("Enter Type Service: ");
