@@ -5,16 +5,20 @@
     <title>Title</title>
 </head>
 <body>
+// Cau 1: Tao mang
 <script>
-    let n= Number.parseInt(prompt("Sô phần tử của mảng: "));
+    let n= Number.parseInt(prompt("nhap vao phan tu cua mang: "));
     let arr = new Array();
     let pt=0;
-    for (let i=0;i<n; i++) {
-        pt= Number.parseInt(prompt("Phần tử thú: "+ i));
+    for (let i=1;i<n+1; i++) {
+        pt= Number.parseInt(prompt("phan tu thu: "+ i));
         arr.push(pt);
+        arr.sort();
     }
     for (let i=0;i<arr.length; i++) {
         document.write( arr[i]+ "  ")
+    }
+
 
 
 </script>

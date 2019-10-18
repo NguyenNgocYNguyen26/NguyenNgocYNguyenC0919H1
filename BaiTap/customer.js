@@ -93,7 +93,7 @@ let Customer = function () {
         if(this.typeService === "Villa"){
             moneyPerDays = 500;
         }
-        else if(this.typeService === "Villa"){
+        else if(this.typeService === "House"){
             moneyPerDays = 300;
         }else{
             moneyPerDays = 200;

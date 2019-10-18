@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let n = Number.parseInt(prompt("so phan tu cua mang: "));
+    let arr = new Array();
+    let pt = 0;
+    for (let i = 1; i < n; i++) {
+        pt = Number.parseInt(prompt("phan tu thu: " + i));
+        arr.push(pt);
+
+        function fineMaxScore() {
+            let maxScore = arr[0];
+            for (var i = 0; i < n; i++)
+                if (arr[i] > maxScore) {
+                    maxScore = arr[i];
+                }
+
+            return maxScore;
+        }
+
+        document.write("Diem cao nhat la:"+ maxScore + "vi tri thu : " + (i - 1));
+
+</script>
+
+</body>
+</html>
