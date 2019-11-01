@@ -2,9 +2,155 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
+    <style>
+        .khung {
+            margin-top: 50px;
+            width: 400px;
+            background-color: white;
+        }
+
+
+        .hang1 {
+            height: 80px;
+            width: 400px;
+            background-image: url(funny-cat1_part1x1.jpg);
+            background-size: cover;
+            border: 2px solid blue;
+        }
+
+        .hang2 {
+            height: 80px;
+            width: 400px;
+            background-image: url(monkey_part2x1.jpg);
+            background-size: cover;
+            border: 2px solid blue;
+        }
+
+        .hang3 {
+            height: 80px;
+            width: 400px;
+            background-image: url(monkey_part3x1.jpg);
+            background-size: cover;
+            border: 2px solid blue;
+        }
+
+        .hang4 {
+            height: 80px;
+            width: 400px;
+            background-image: url(panda_swap_part4x1.jpg);
+            background-size: cover;
+            border: 2px solid blue;
+        }
+
+        .hang5 {
+            height: 80px;
+            width: 400px;
+            background-image: url(monkey_part5x1.jpg);
+            background-size: cover;
+            border: 2px solid blue;
+        }
+    </style>
 </head>
 <body>
-$END$
+<div id="khung" class="conteiner khung">
+    <div onclick=" chuyenAnh1()" id=hang1 class="row hang1 my-1"></div>
+    <div onclick=" chuyenAnh2()" id=hang2 class="row hang2 my-1"></div>
+    <div onclick=" chuyenAnh3()" id=hang3 class="row hang3 my-1"></div>
+    <div onclick=" chuyenAnh4()" id=hang4 class="row hang4 my-1"></div>
+    <div onclick=" chuyenAnh5()" id=hang5 class="row hang5 my-1"></div>
+</div>
+<script>
+    let image1 = "c";
+    let image2 = "a";
+    let image3 = "b";
+    let image4 = "a";
+    let image5 = "c";
+    let khung = document.getElementById("khung");
+
+    function chuyenAnh1() {
+        let hang1 = document.getElementById("hang1");
+        if (image1 == "a") {
+            hang1.style.backgroundImage = "url(funny-cat1_part1x1.jpg)";
+            image1 = "b";
+        } else if (image1 == "b") {
+            hang1.style.backgroundImage = "url(monkey_part1x1.jpg)";
+            image1 = "c";
+        } else {
+            hang1.style.backgroundImage = "url(panda_swap_part1x1.jpg)";
+            image1 = 'a'
+        }
+        kiemTraTrungAnh();
+
+    }
+
+    function chuyenAnh2() {
+        let hang2 = document.getElementById("hang2");
+        if (image2 == "a") {
+            hang2.style.backgroundImage = "url(funny-cat1_part2x1.jpg)";
+            image2 = "b";
+        } else if (image2 == "b") {
+            hang2.style.backgroundImage = "url(monkey_part2x1.jpg)";
+            image2 = "c";
+        } else {
+            hang2.style.backgroundImage = "url(panda_swap_part2x1.jpg)";
+            image2 = 'a'
+        }
+        kiemTraTrungAnh();
+    }
+
+    function chuyenAnh3() {
+        let hang3 = document.getElementById("hang3");
+        if (image3 == "a") {
+            hang3.style.backgroundImage = "url(funny-cat1_part3x1.jpg)";
+            image3 = "b";
+        } else if (image3 == "b") {
+            hang3.style.backgroundImage = "url(monkey_part3x1.jpg)";
+            image3 = "c";
+        } else {
+            hang3.style.backgroundImage = "url(panda_swap_part3x1.jpg)";
+            image3 = 'a'
+        }
+        kiemTraTrungAnh();
+    }
+
+    function chuyenAnh4() {
+        let hang4 = document.getElementById("hang4");
+        if (image4 == "a") {
+            hang4.style.backgroundImage = "url(funny-cat1_part4x1.jpg)";
+            image4 = "b";
+        } else if (image4 == "b") {
+            hang4.style.backgroundImage = "url(monkey_part4x1.jpg)";
+            image4 = "c";
+        } else {
+            hang4.style.backgroundImage = "url(panda_swap_part4x1.jpg)";
+            image4 = 'a'
+        }
+        kiemTraTrungAnh();
+    }
+
+    function chuyenAnh5() {
+        let hang5 = document.getElementById("hang5");
+        if (image5 == "a") {
+            hang5.style.backgroundImage = "url(funny-cat1_part5x1.jpg)";
+            image5 = "b";
+        } else if (image5 == "b") {
+            hang5.style.backgroundImage = "url(monkey_part5x1.jpg)";
+            image5 = "c";
+        } else {
+            hang5.style.backgroundImage = "url(panda_swap_part5x1.jpg)";
+            image5 = 'a'
+        }
+        kiemTraTrungAnh();
+    }
+
+    function kiemTraTrungAnh() {
+        if (image1 === image2 && image2 === image3 && image3 === image4 && image4 === image5 && image5 === image1) {
+            alert(" Anh Trung Nhau");
+            //         khung = document.getElementById("khung");
+            //     }
+        }
+    }
+</script>
 </body>
 </html>

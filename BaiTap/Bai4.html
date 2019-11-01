@@ -7,7 +7,65 @@
 <body>
 <script>
 
+    let arrNamecustomer = [];
+    let result = "";
+    let choose = prompt(
+        " 1.Add new Customer " +
+        "\n2. delele Customer. ");
+    switch (choose) {
+        case "1" :
 
+            let arrayLenght = prompt(" Enter the number of customer you want to add ");
+            for
+            (let i = 0; i < arrayLenght; i++) {
+                arrNamecustomer.push(prompt("Enter name customer "));
+            }
+
+
+            for ( i = 0; i < arrNamecustomer.length; i++) {
+
+                result += "\n" + (i + 1) + ". " + arrNamecustomer[i];
+            }
+
+            alert(result);
+
+
+
+            break;
+        case "2":
+            arrNamecustomer[0] = " Nguyen";
+            arrNamecustomer[1] = " Toan";
+            arrNamecustomer[2] = " Thanh";
+            arrNamecustomer[3] = " Dung";
+            arrNamecustomer[4] = " Tuan";
+            arrNamecustomer[5] = " Huy";
+            arrNamecustomer[6] = " Hieu";
+            arrNamecustomer[7] = " Quang";
+            arrNamecustomer[8] = " Dat";
+            arrNamecustomer[9] = " Hai";
+
+
+
+            for (let i = 0; i < arrNamecustomer.length; i++) {
+
+                result += "\n" + (i + 1) + ". " + arrNamecustomer[i];
+            }
+            let indexDelete = prompt("Choose Customer Do U Want Delete" + result);
+
+            arrNamecustomer.splice(Number.parseInt(indexDelete) - 1, 1);
+            let resultAfterDelete = " ";
+
+            for (let i = 0; i < arrNamecustomer.length; i++) {
+
+                resultAfterDelete += "\n" + (i + 1) + ". " + arrNamecustomer[i];
+            }
+            alert(" List Danh Sach Khach Hang Sau Khi Xoa" + resultAfterDelete);
+
+            break;
+        default:
+            alert(" Failll !!!!");
+            break;
+    }
 
 
 </script>

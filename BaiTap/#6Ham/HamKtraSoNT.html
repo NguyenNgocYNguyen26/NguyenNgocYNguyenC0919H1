@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let number = parseInt(prompt("Nhap vao so ban muon kiem tra: "));
+
+
+    while (checkprime()) {
+
+        document.write("so da cho la so nguyen to ");
+
+    }
+
+    function checkprime(number) {
+        for (let i = 2; i <= Math.sqrt(number); i++) {
+            if (number % i == 0) {
+                if (number === 2) {
+                    document.write("so da cho la so nguyen to ");
+                } else {
+                    document.write("so da cho khong phai la so nguyen to ");
+                }
+            }
+        }
+    }
+</script>
+</body>
+</html>

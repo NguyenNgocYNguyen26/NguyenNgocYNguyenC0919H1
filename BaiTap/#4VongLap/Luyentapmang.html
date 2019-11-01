@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+
+    //bai 1
+    /*dung for
+
+     */
+    let arr = [];
+    let num = parseInt(prompt("nhap so phan muon nhap "));
+    let dem = 0;
+    for (let i = 0; i < num; i++) {
+        let int = parseInt(prompt(" nhap phan tu thu " + (i + 1)));
+        arr[i] = int;
+
+        if (arr[i] > 0) {
+            dem = dem + 1;
+        }
+    }
+    let min = minArray(arr);
+  alert("gia tri nho nhat la : " + min);
+    function minArray(arr) {
+        if (arr.length <= 0)
+            return null;
+        let min = arr[0];
+        for (let i = 0; i < arr.length - 1; i++) {
+            if (arr[i] < min) min = arr[i];
+        }
+
+        return min;
+
+    }
+
+    document.write(" chuoi so la: " + arr);
+
+    document.write("<br>");
+    document.write("co tat ca : " + dem + " so nguyen duong");
+
+
+</script>
+
+</body>
+</html>

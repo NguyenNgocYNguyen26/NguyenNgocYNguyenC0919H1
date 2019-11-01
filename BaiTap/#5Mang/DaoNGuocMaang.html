@@ -4,32 +4,30 @@
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
-<!--<body>-->
-<!--<script>-->
-<!--    let arr = [8,8,6,9,8,7,5,4,5,8,7];-->
-<!--    for (let i=0;i<arr.length;i++){-->
-<!--        document.write(arr[i]+" ");-->
-<!--    }-->
-<!--    document.write("<br>");-->
-<!--    for (let i=0;i<arr.length/2;i++){-->
-<!--        let a =arr[i];-->
-<!--        arr[i]=arr[arr.length-i-1];-->
-<!--        arr[arr.length-i-1]=a;-->
-<!--    }-->
-<!--    for (let i=0;i<arr.length;i++){-->
-<!--        document.write(arr[i]+" ");-->
-<!--    }-->
-<!--    document.write("<br>");-->
-<!--</script>-->
-<!--</body>-->
-// tim kiem
 <body>
 <script>
-    let arr = [1,2,5,4,5,6,8,9,6,2,5,4,6,5,8,4];
-    let value = parseInt(prompt("Enter your number"));
+    let arr = [8,8,6,9,8,7,5,4,5,8,7];
     for (let i=0;i<arr.length;i++){
-        if(arr[i]==value)document.write(i+"<br>");
+        document.write(arr[i]+" ");
     }
+    document.write("<br>");
+    for (let i=0;i<arr.length/2;i++){
+        let a =arr[i];
+        arr[i]=arr[arr.length-i-1];
+        arr[arr.length-i-1]=a;
+    }
+    for (let i=0;i<arr.length;i++){
+        document.write(arr[i]+" ");
+    }
+    document.write("<br>");
+
+// tim kiem
+//
+//     let arr = [1,2,5,4,5,6,8,9,6,2,5,4,6,5,8,4];
+//     let value = parseInt(prompt("Enter your number"));
+//     for (let i=0;i<arr.length;i++){
+//         if(arr[i]==value)document.write(i+"<br>");
+//     }
 </script>
 </body>
 </html>

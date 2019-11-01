@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let nameCustomer = prompt("Enter name customer:");
+    let filteidcard = /^\d{9}$/;
+    let filteEmail = /^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$/;
+    let filteBirthday = /^\d\d[/]\d\d[/]\d\d\d\d$/;
+    let filteDiscount = /^[0-9]$/;
+    let FilteNumberOfAccompanying = /^[0-9]$/;
+    let FilteRentday = /^[0-9]$/;
+
+
+    let idCard;
+    do {
+        idCard = prompt("Enter idcard:");
+    } while (!filteidcard.test(idCard));
+
+    let emailCustomer;
+    do {
+        emailCustomer = prompt("Enter emailcustomer:");
+    } while (!filteEmail.test(emailCustomer));
+    let birthdayCustomer;
+    do {
+        birthdayCustomer = prompt("Enter birthdayCustomer:");
+    } while (!filteBirthday.test(birthdayCustomer));
+    let discount;
+    do {
+        discount = prompt("Enter discount:");
+    } while (!filteDiscount.test(Discount));
+    let numberOfAccompanying;
+    do {
+        numberOfAccompanying = prompt(" Enter numberOfAccompanying")
+    } while (!FilteNumberOfAccompanying.test(numberOfAccompanying));
+    let rentDay;
+    do {
+        rentDay = prompt(" Enter the rentday ")
+    }while (!FilteRentday.test(rentDay));
+    let
+
+
+
+</script>
+</body>
+</html>

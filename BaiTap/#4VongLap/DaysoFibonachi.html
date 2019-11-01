@@ -6,13 +6,55 @@
 </head>
 <body>
 <script>
- let tong = 1;
- let num = parseInt(prompt(" nhap vao so trong day finobacchi"));
- while(let i = 0; i< num; i++){
-     tong += i;
-   alert(" cac so trong day la :" + tong);
-  }
+    <!--//bai3-->
+
+
+       let a = 1;
+    let b = 0;
+    let n = parseInt(prompt("Ban muon xem bao nhieu so trong day Finobachi"));
+
+
+    while (n  > 0){
+
+        let temp = a;
+    a = a + b;
+    b = temp;
+        document.write( b +" " );
+    n--;
+
+    }
+
+    //bai4
+
+    <!--        let a = 1;-->
+    <!--        let b = 0;-->
+    <!--        let tong = 0;-->
+    <!--        let n = parseInt(prompt("Bantim tong bao nhieu so trong day Finobachi"));-->
+
+
+    <!--        while (n > 0){-->
+
+    <!--            let temp = a;-->
+    <!--            a = a + b;-->
+    <!--            b = temp;-->
+    <!--            tong = tong +b;-->
+    <!--            n&#45;&#45;;-->
+    <!--        }-->
+
+    <!--        alert("tong n so dau tien trong day la :" +tong);-->
+
+
+    // let tong;
+    // let n = parseInt(prompt("tinh tong bao nhieu so chia het cho 7"));
+    // let i = 1;
+    // for (i < n, i++) {
+    //     let dem = dem + i;
+    //     tong = 7 * dem;
+    // }
+    // alert(" tong cac so dau tien la : " + tong);
+
 
 </script>
+
 </body>
 </html>

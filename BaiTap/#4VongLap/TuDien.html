@@ -9,30 +9,34 @@
 <input type="button" value=" Dich" id="btnDich" onclick="checkArrVietNamese()" /><br>
 <input type="text" id="txtVietNamese" size="20"/><br>
 <label><b>English</b></label>
-<input type="button" value="Traslage" id="btnTranslage" onclick="checkArrEnglish()"/><br>
+<input type="button" value="Traslate" id="btnTranslate" onclick="checkArrEnglish()"/><br>
 <input type="text" id="txtEnglish" size="20"/><br>
 <p id="txt2"></p>
 <script>
-    let vietNamese = ["1","2","3","4","5","6","7","8","9","10",];
-    let english = ["one","two","Three","Four","Five","Six","Seven","eight","night","ten"];
+    let vietNamese = ["mot","hai","ba","bon","nam","sau","bay","tam","chin","muoi",];
+    let english = ["one","two","three","four","five","six","seven","eight","night","ten"];
     let txtVN=document.getElementById("txtVietNamese");
     let txtEL=document.getElementById("txtEnglish");
     let dem=0;
     function checkArrVietNamese() {
-        for (let i = 0; i < vietNamese.length; i++)
+        for (let i = 0; i < vietNamese.length; i++){
             if (vietNamese[i] == txtVN.value){
                 dem=1;
                 txtEL.value = english[i];
             }
-        if(dem=0) alert("khong co");
+        }
+        if ( dem == 0) alert("khong co tu can tim");
+
     }
     function checkArrEnglish() {
-        for (let i = 0; i < vietNamese.length; i++)
-            if (english[i] == txtEL.value){
+        for (let i = 0; i < vietNamese.length; i++) {
+            if (english[i] == txtEL.value) {
                 txtVN.value = vietNamese[i];
-                dem=1;
+                dem = 1;
             }
-        if(dem=0) alert("khong co");
+
+        }
+        if (dem == 0) alert("khong co tu can tim");
     }
 </script>
 </body>
